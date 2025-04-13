@@ -1,0 +1,91 @@
+RUN	debitoAutomatico.testes.PutDisableRegisterSuccess	putdisableregistersuccess	1658264867894	 	3.6.1
+USER	PutDisableRegister	START	1658264870482
+USER	PutDisableRegister	START	1658264871473
+USER	PutDisableRegister	START	1658264872473
+USER	PutDisableRegister	START	1658264873468
+REQUEST		Register - Successo All	1658264873469	1658264874075	KO	status.find.in(409,200,204), but actually found 503
+REQUEST		Register - Successo All	1658264872474	1658264874075	KO	status.find.in(409,200,204), but actually found 503
+REQUEST		Register - Successo All	1658264870531	1658264874075	KO	status.find.in(409,200,204), but actually found 503
+REQUEST		Register - Successo All	1658264871474	1658264874075	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264874097
+USER	PutDisableRegister	END	1658264874097
+USER	PutDisableRegister	END	1658264874097
+USER	PutDisableRegister	END	1658264874097
+USER	PutDisableRegister	START	1658264874469
+REQUEST		Register - Successo All	1658264874470	1658264874998	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264875000
+USER	PutDisableRegister	START	1658264875468
+REQUEST		Register - Successo All	1658264875469	1658264876028	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264876029
+USER	PutDisableRegister	START	1658264876468
+REQUEST		Register - Successo All	1658264876469	1658264876998	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264876999
+USER	PutDisableRegister	START	1658264877469
+REQUEST		Register - Successo All	1658264877470	1658264878013	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264878015
+USER	PutDisableRegister	START	1658264878468
+REQUEST		Register - Successo All	1658264878469	1658264879175	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264879176
+USER	PutDisableRegister	START	1658264879468
+REQUEST		Register - Successo All	1658264879469	1658264880000	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264880002
+USER	PutDisableRegister	START	1658264880468
+REQUEST		Register - Successo All	1658264880469	1658264881007	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264881008
+USER	PutDisableRegister	START	1658264881468
+REQUEST		Register - Successo All	1658264881470	1658264882012	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264882013
+USER	PutDisableRegister	START	1658264882468
+REQUEST		Register - Successo All	1658264882469	1658264883180	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264883182
+USER	PutDisableRegister	START	1658264883468
+REQUEST		Register - Successo All	1658264883469	1658264884005	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264884006
+USER	PutDisableRegister	START	1658264884469
+REQUEST		Register - Successo All	1658264884470	1658264885009	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264885010
+USER	PutDisableRegister	START	1658264885468
+REQUEST		Register - Successo All	1658264885469	1658264885999	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264886000
+USER	PutDisableRegister	START	1658264886468
+REQUEST		Register - Successo All	1658264886469	1658264886997	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264886999
+USER	PutDisableRegister	START	1658264887468
+REQUEST		Register - Successo All	1658264887468	1658264888005	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264888006
+USER	PutDisableRegister	START	1658264888468
+REQUEST		Register - Successo All	1658264888468	1658264889001	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264889002
+USER	PutDisableRegister	START	1658264889469
+REQUEST		Register - Successo All	1658264889470	1658264890006	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264890008
+USER	PutDisableRegister	START	1658264890468
+REQUEST		Register - Successo All	1658264890469	1658264890995	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264890997
+USER	PutDisableRegister	START	1658264891469
+REQUEST		Register - Successo All	1658264891470	1658264892005	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264892006
+USER	PutDisableRegister	START	1658264892468
+REQUEST		Register - Successo All	1658264892469	1658264892999	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264892999
+USER	PutDisableRegister	START	1658264893468
+REQUEST		Register - Successo All	1658264893469	1658264894003	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264894005
+USER	PutDisableRegister	START	1658264894468
+REQUEST		Register - Successo All	1658264894469	1658264895001	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264895002
+USER	PutDisableRegister	START	1658264895467
+REQUEST		Register - Successo All	1658264895468	1658264896002	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264896003
+USER	PutDisableRegister	START	1658264896468
+REQUEST		Register - Successo All	1658264896468	1658264896995	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264896996
+USER	PutDisableRegister	START	1658264897469
+REQUEST		Register - Successo All	1658264897470	1658264898185	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264898186
+USER	PutDisableRegister	START	1658264898468
+REQUEST		Register - Successo All	1658264898469	1658264899001	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264899002
+USER	PutDisableRegister	START	1658264899469
+REQUEST		Register - Successo All	1658264899469	1658264900004	KO	status.find.in(409,200,204), but actually found 503
+USER	PutDisableRegister	END	1658264900005

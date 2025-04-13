@@ -1,0 +1,4 @@
+RUN	debitoAutomatico.testes.GetSegmentsSuccess	getsegmentssuccess	1658266229161	 	3.6.1
+USER	GetSegments	START	1658266230482
+REQUEST		Segments - Successo All	1658266230504	1658266231044	KO	status.find.in(409,200,204), but actually found 500
+USER	GetSegments	END	1658266231062

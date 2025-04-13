@@ -1,0 +1,10 @@
+{
+  "simulation": "debitoAutomatico.testes.GetSegmentsSuccess",
+  "simulationId": "getsegmentssuccess",
+  "start": 1658266229161,
+  "description": "",
+  "scenarios": ["GetSegments"],
+  "assertions": [
+
+  ]
+}

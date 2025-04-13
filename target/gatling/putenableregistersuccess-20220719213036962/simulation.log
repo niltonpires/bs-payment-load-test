@@ -1,0 +1,4 @@
+RUN	debitoAutomatico.testes.PutEnableRegisterSuccess	putenableregistersuccess	1658266236962	 	3.6.1
+USER	PutEnableRegister	START	1658266239503
+REQUEST		Register - Successo All	1658266239561	1658266243129	KO	status.find.in(409,200,204), but actually found 500
+USER	PutEnableRegister	END	1658266243151

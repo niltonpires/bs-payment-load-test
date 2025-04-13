@@ -1,0 +1,4 @@
+RUN	debitoAutomatico.testes.GetRegisterSuccess	getregistersuccess	1658266007885	 	3.6.1
+USER	GetRegister	START	1658266009207
+REQUEST		Register - Successo All	1658266009229	1658266012543	OK	 
+USER	GetRegister	END	1658266012563

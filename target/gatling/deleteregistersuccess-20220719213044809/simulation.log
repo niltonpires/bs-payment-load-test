@@ -1,0 +1,4 @@
+RUN	debitoAutomatico.testes.DeleteRegisterSuccess	deleteregistersuccess	1658266244809	 	3.6.1
+USER	DeleteRegister	START	1658266247358
+REQUEST		Register - Successo All	1658266247411	1658266251266	KO	status.find.in(409,200,204), but actually found 500
+USER	DeleteRegister	END	1658266251285

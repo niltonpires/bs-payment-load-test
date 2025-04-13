@@ -1,0 +1,4 @@
+RUN	debitoAutomatico.testes.GetRegisterByIdSuccess	getregisterbyidsuccess	1658265980324	 	3.6.1
+USER	GetRegister	START	1658265981660
+REQUEST		Register - Successo All	1658265981706	1658265982427	KO	status.find.in(409,200,204), but actually found 500
+USER	GetRegister	END	1658265982447

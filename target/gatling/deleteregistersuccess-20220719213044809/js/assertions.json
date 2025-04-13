@@ -1,0 +1,10 @@
+{
+  "simulation": "debitoAutomatico.testes.DeleteRegisterSuccess",
+  "simulationId": "deleteregistersuccess",
+  "start": 1658266244809,
+  "description": "",
+  "scenarios": ["DeleteRegister"],
+  "assertions": [
+
+  ]
+}

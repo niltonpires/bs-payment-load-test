@@ -1,0 +1,10 @@
+{
+  "simulation": "debitoAutomatico.testes.PutEnableRegisterSuccess",
+  "simulationId": "putenableregistersuccess",
+  "start": 1658265984163,
+  "description": "",
+  "scenarios": ["PutEnableRegister"],
+  "assertions": [
+
+  ]
+}

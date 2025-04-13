@@ -1,0 +1,10 @@
+{
+  "simulation": "debitoAutomatico.testes.GetRegisterByIdSuccess",
+  "simulationId": "getregisterbyidsuccess",
+  "start": 1658266232685,
+  "description": "",
+  "scenarios": ["GetRegister"],
+  "assertions": [
+
+  ]
+}

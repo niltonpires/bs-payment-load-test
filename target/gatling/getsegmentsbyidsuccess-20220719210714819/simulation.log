@@ -1,0 +1,91 @@
+RUN	debitoAutomatico.testes.GetSegmentsByIdSuccess	getsegmentsbyidsuccess	1658264834819	 	3.6.1
+USER	GetSegmentsById	START	1658264836716
+REQUEST		Segments - Successo All	1658264836761	1658264837304	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264837323
+USER	GetSegmentsById	START	1658264837705
+REQUEST		Segments - Successo All	1658264837706	1658264838643	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264838644
+USER	GetSegmentsById	START	1658264838706
+REQUEST		Segments - Successo All	1658264838707	1658264839251	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264839253
+USER	GetSegmentsById	START	1658264839701
+REQUEST		Segments - Successo All	1658264839702	1658264840234	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264840235
+USER	GetSegmentsById	START	1658264840701
+REQUEST		Segments - Successo All	1658264840702	1658264841229	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264841230
+USER	GetSegmentsById	START	1658264841702
+REQUEST		Segments - Successo All	1658264841703	1658264842243	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264842245
+USER	GetSegmentsById	START	1658264842701
+REQUEST		Segments - Successo All	1658264842703	1658264843640	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264843642
+USER	GetSegmentsById	START	1658264843701
+REQUEST		Segments - Successo All	1658264843702	1658264844235	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264844236
+USER	GetSegmentsById	START	1658264844702
+REQUEST		Segments - Successo All	1658264844703	1658264845229	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264845230
+USER	GetSegmentsById	START	1658264845702
+REQUEST		Segments - Successo All	1658264845703	1658264846235	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264846236
+USER	GetSegmentsById	START	1658264846701
+USER	GetSegmentsById	START	1658264847701
+REQUEST		Segments - Successo All	1658264846702	1658264847776	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264847777
+REQUEST		Segments - Successo All	1658264847702	1658264848238	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264848240
+USER	GetSegmentsById	START	1658264848702
+REQUEST		Segments - Successo All	1658264848703	1658264849237	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264849239
+USER	GetSegmentsById	START	1658264849701
+REQUEST		Segments - Successo All	1658264849702	1658264850238	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264850239
+USER	GetSegmentsById	START	1658264850702
+REQUEST		Segments - Successo All	1658264850703	1658264851237	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264851238
+USER	GetSegmentsById	START	1658264851701
+REQUEST		Segments - Successo All	1658264851703	1658264852258	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264852260
+USER	GetSegmentsById	START	1658264852702
+REQUEST		Segments - Successo All	1658264852703	1658264853231	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264853232
+USER	GetSegmentsById	START	1658264853702
+REQUEST		Segments - Successo All	1658264853703	1658264854231	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264854232
+USER	GetSegmentsById	START	1658264854702
+REQUEST		Segments - Successo All	1658264854702	1658264855234	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264855236
+USER	GetSegmentsById	START	1658264855701
+REQUEST		Segments - Successo All	1658264855702	1658264856228	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264856229
+USER	GetSegmentsById	START	1658264856701
+REQUEST		Segments - Successo All	1658264856702	1658264857229	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264857230
+USER	GetSegmentsById	START	1658264857701
+REQUEST		Segments - Successo All	1658264857702	1658264858239	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264858239
+USER	GetSegmentsById	START	1658264858702
+REQUEST		Segments - Successo All	1658264858703	1658264859649	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264859650
+USER	GetSegmentsById	START	1658264859700
+REQUEST		Segments - Successo All	1658264859701	1658264860232	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264860233
+USER	GetSegmentsById	START	1658264860702
+REQUEST		Segments - Successo All	1658264860703	1658264861676	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264861677
+USER	GetSegmentsById	START	1658264861702
+REQUEST		Segments - Successo All	1658264861703	1658264862239	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264862240
+USER	GetSegmentsById	START	1658264862702
+REQUEST		Segments - Successo All	1658264862703	1658264863238	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264863239
+USER	GetSegmentsById	START	1658264863701
+REQUEST		Segments - Successo All	1658264863702	1658264864409	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264864410
+USER	GetSegmentsById	START	1658264864702
+REQUEST		Segments - Successo All	1658264864703	1658264865233	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264865234
+USER	GetSegmentsById	START	1658264865702
+REQUEST		Segments - Successo All	1658264865703	1658264866240	KO	status.find.in(409,200,204), but actually found 503
+USER	GetSegmentsById	END	1658264866241

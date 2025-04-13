@@ -1,0 +1,10 @@
+{
+  "simulation": "debitoAutomatico.testes.FirstAccessSuccess",
+  "simulationId": "firstaccesssuccess",
+  "start": 1658266158399,
+  "description": "",
+  "scenarios": ["First Access"],
+  "assertions": [
+
+  ]
+}

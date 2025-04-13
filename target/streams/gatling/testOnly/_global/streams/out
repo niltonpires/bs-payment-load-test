@@ -1,0 +1,74 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Djna.platform.library.path=/usr/lib:/usr/lib, -Djna.loaded=true, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=/Users/usertqi/Library/Caches/JNA/temp/jna3621851546232007728.tmp, -Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dswoval.tmpdir=/Users/usertqi/.sbt/1.0, -Dsbt.script=/usr/local/Cellar/sbt/1.7.1/libexec/bin/sbt, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.FirstAccessSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation FirstAccessSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.GetSegmentsByIdSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation GetSegmentsByIdSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.PutDisableRegisterSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation PutDisableRegisterSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.GetSegmentsSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation GetSegmentsSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.GetRegisterByIdSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation GetRegisterByIdSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.PutEnableRegisterSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation PutEnableRegisterSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.DeleteRegisterSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation DeleteRegisterSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.RegisterSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation RegisterSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(debitoAutomatico.testes.GetRegisterSuccess, sbt.ForkMain$SubclassFingerscan@64a294a6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation GetRegisterSuccess successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation(s) execution ended.[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.FirstAccessSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.GetSegmentsByIdSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.PutDisableRegisterSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.GetSegmentsSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.GetRegisterByIdSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.PutEnableRegisterSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.DeleteRegisterSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.RegisterSuccess[0m
+[0m[[0m[0mdebug[0m] [0m[0m	debitoAutomatico.testes.GetRegisterSuccess[0m

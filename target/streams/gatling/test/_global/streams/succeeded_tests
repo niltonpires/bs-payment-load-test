@@ -1,0 +1,11 @@
+#Successful Tests
+#Tue Jul 19 18:31:01 BRT 2022
+debitoAutomatico.testes.PutDisableRegisterSuccess=1658266227711
+debitoAutomatico.testes.GetSegmentsByIdSuccess=1658266224112
+debitoAutomatico.testes.DeleteRegisterSuccess=1658266251487
+debitoAutomatico.testes.RegisterSuccess=1658266255080
+debitoAutomatico.testes.PutEnableRegisterSuccess=1658266243347
+debitoAutomatico.testes.GetSegmentsSuccess=1658266231262
+debitoAutomatico.testes.GetRegisterByIdSuccess=1658266235506
+debitoAutomatico.testes.GetRegisterSuccess=1658266261644
+debitoAutomatico.testes.FirstAccessSuccess=1658266220168

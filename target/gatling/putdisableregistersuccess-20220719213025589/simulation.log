@@ -1,0 +1,4 @@
+RUN	debitoAutomatico.testes.PutDisableRegisterSuccess	putdisableregistersuccess	1658266225589	 	3.6.1
+USER	PutDisableRegister	START	1658266226899
+REQUEST		Register - Successo All	1658266226946	1658266227495	KO	status.find.in(409,200,204), but actually found 500
+USER	PutDisableRegister	END	1658266227515
