@@ -20,5 +20,5 @@ class PaymentSlip extends Simulation {
 
   setUp(scn.inject(
      constantUsersPerSec(params.qtdUser).during(60.seconds)
-  ).protocols(params.semMIBPROD))
+  ).protocols(params.semMIBQA))
 }
