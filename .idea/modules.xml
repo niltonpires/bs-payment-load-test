@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bs-payment-load-test_4978.iml" filepath="$PROJECT_DIR$/.idea/modules/bs-payment-load-test_4978.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bs-payment-load-test_4978.bs-payment-load-test_4978-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bs-payment-load-test_4978.bs-payment-load-test_4978-build.iml" />
-    </modules>
-  </component>
-</project>
